@@ -1,6 +1,6 @@
 ### Hi, I'm Keez 👋
 
-Software Engineer at [Medworld](https://www.medworld.com/), formerly Software Engineer at [Fingermark](https://www.fingermark.tech/)
+Freelancer Software Engineer, formerly Software Engineer at [Medworld](https://www.medworld.com/) and [Fingermark](https://fingermark.ai/)
 
 I thoroughly enjoy browsing open source projects and hope to contribute more often 😅
 
